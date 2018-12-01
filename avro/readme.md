@@ -11,9 +11,8 @@
 - It has righ, extensible schema language defined in pure JSON
 - It has the best notion of compatability for evolving your data over time
 
-### Why JSON is inefficient?
+## Why JSON is inefficient?
 - The bulk of JSON, repeating every field name with every single record, is what makes JSON inefficient for high-ovlume usage
-
 
 ## Example - Sale of a product
 
